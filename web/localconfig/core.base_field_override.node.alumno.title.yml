@@ -1,0 +1,18 @@
+uuid: 38f18271-433d-4010-ae2e-f8cf8740430f
+langcode: es
+status: true
+dependencies:
+  config:
+    - node.type.alumno
+id: node.alumno.title
+field_name: title
+entity_type: node
+bundle: alumno
+label: Alumno
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
